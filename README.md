@@ -4,7 +4,7 @@
 *斜体*
 **粗体**
 [链接](www.baidu.com)
-![图片](www.baidu.com)
+<img src="githubPhotoTest.jpg" width="100" height="100"/>
 
 > 引用1
 > 引用2
